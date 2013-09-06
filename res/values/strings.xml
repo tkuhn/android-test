@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hello">Hi</string>
+    <string name="edit_name"/>
+    <string name="button_send">Send</string>
+    <string name="hello_text">Hi &lt;name&gt;!</string>
+
+</resources>
