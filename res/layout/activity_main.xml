@@ -9,6 +9,10 @@
     tools:context=".MainActivity"
     android:orientation="horizontal" >
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/yourname_text" />
     <EditText android:id="@+id/edit_name"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

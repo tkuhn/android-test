@@ -7,5 +7,6 @@
     <string name="edit_name"/>
     <string name="button_send">Send</string>
     <string name="hello_text">Hi &lt;name&gt;!</string>
+    <string name="yourname_text">Your name:</string>
 
 </resources>
